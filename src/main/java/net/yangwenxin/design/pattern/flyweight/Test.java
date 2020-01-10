@@ -1,4 +1,4 @@
-package net.yangwenxin.design.pattern.structural.flyweight;
+package net.yangwenxin.design.pattern.flyweight;
 
 public class Test {
     private static final String departments[] = {"RD", "QA", "PM", "BD"};

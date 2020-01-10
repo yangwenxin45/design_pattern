@@ -1,4 +1,4 @@
-package net.yangwenxin.design.pattern.structural.flyweight;
+package net.yangwenxin.design.pattern.flyweight;
 
 import java.util.HashMap;
 import java.util.Map;
